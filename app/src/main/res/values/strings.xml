@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">R2_SpringIndicator</string>
+    <string name="license" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
