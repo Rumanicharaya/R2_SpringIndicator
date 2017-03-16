@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private List<Integer> getBgRes(){
-        return Lists.newArrayList(R.drawable.bg1, R.drawable.bg2, R.drawable.bg3, R.drawable.bg4);
+        return Lists.newArrayList(R.drawable.london, R.drawable.ic_launcher, R.drawable.ic_launcher, R.drawable.ic_launcher);
     }
 
     @Override
